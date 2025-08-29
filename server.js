@@ -16,5 +16,5 @@ app.use("/api/v1", allroutes);
 
 
 app.get("/",(req,res)=>{
-    res.send("MAI chal RHA shubham");
+    res.send("MAI chal RHA shubham ap apna kam kijjiya");
 })
